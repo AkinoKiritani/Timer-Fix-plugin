@@ -1,5 +1,5 @@
 {
-    "user": "KashCherry",
+    "user": "AkinoKiritani",
     "repo": "Timer-Fix-plugin",
     "resources": [
         {
@@ -18,6 +18,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["KashCherry/Timer-Fix-plugin"]
+      "plugins": [ "AkinoKiritani/Timer-Fix-plugin" ]
     }
 }
